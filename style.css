@@ -1,0 +1,42 @@
+body{
+    font-family: outfit;
+   background-color: #D5E1EF;
+  
+}
+
+h2{
+    font-weight: 700;
+    width: 85%;
+    margin: 0 auto;
+    padding: 10px;
+    color: #27324F;
+    
+}
+
+p{
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0 auto;
+   width: 80%;
+   padding-bottom: 50px;
+   color: gray;
+   
+   
+}
+
+.one {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(200, 198, 198);
+    text-align: center;
+    margin: 0px auto;
+    background-color: white;
+}
+
+img{
+  border-radius: 10px;
+  width: 300px;
+  margin: 15px auto;
+}
