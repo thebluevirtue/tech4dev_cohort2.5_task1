@@ -17,6 +17,7 @@ p {
   margin: 0 auto;
   width: 80%;
   padding-bottom: 50px;
+  padding-top: 5px;
   color: gray;
 }
 
@@ -25,9 +26,9 @@ p {
   flex-direction: column;
   width: 330px;
   border-radius: 20px;
-  box-shadow: 1px 5px 20px rgb(214, 214, 221);
+  box-shadow: 1px 5px 20px rgb(185, 185, 189);
   text-align: center;
-  margin: 0px auto;
+  margin: 100px auto;
   background-color: white;
 }
 
